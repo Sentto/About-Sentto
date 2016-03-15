@@ -1,4 +1,7 @@
+<img height = "100" src = "https://github.com/Sentto/About-Sentto/blob/master/color_logo.png" />
+
 # About_Sentto
+
 This files shows the record of Sentto's Growth...
 
 ## 2016 Feb 17
